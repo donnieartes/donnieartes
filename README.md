@@ -7,8 +7,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnieartes)](https://github.com/anuraghazra/github-readme-stats)
 
- [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+ 
 
-Apaixonado e estudante por tecnologia, educação e por transformar a vida das pessoas atraves da programação.
+<div style="display: inline_block"><br>
+ <img align="center" alt="python" height="40" width="40" src="https://assets.website-files.com/5a061b4bcb4faf000133793b/6238a90f8b5ce07e5d38fd54_62338332a3fa8795516586c8_tech-pyton.png">
+ <img align="center" alt="git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+ </div>
 
 
+   ### Apaixonado e estudante por tecnologia, educação e por transformar a vida das pessoas atraves da programação.
